@@ -37,7 +37,7 @@ def decrypt_image(input_path, output_path, key):
     print("Image decrypted successfully!")
 
  # image path
-input_image = r"C:\Users\abu76\Desktop\Internship-01\Task-02\input.jpg"
+input_image = r"C:\New folder\input.jpg"
 encrypted_image = r"C:\New folder\encrypted_image.jpg"
 decrypted_image = r"C:\New folder\decrypted_image.jpg"
 
